@@ -4,6 +4,7 @@
     src: url('/assets/fonts/CeraPro-Regular.eot?#iefix') format('embedded-opentype'),url('/assets/fonts/CeraPro-Regular.woff2') format('woff2'),url('/assets/fonts/CeraPro-Regular.woff') format('woff'),url('/assets/fonts/CeraPro-Regular.ttf') format('truetype');
   }
 
+
 :root {
   font-size: 62.5%;
   font-family: 'CeraPro-Regular', sans-serif;
