@@ -675,11 +675,11 @@ footer .inputformabo:focus {
   width: 90%;
 }
 
-/*.main-letter-con button:hover {
+.main-letter-con button:hover {
   transition: all .3s ease-in-out;
-  width: 110%;
   transform: rotate(5deg);
-}*/
+  opacity: 80;
+}
 
 
 .main-letter-con .uk-button {
