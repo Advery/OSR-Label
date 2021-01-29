@@ -882,7 +882,7 @@ footer .inputformabo:focus {
 
 @media screen and (max-width: 479px) {
   .main-letter-con {
-    display: none;
+
     }
   .main-letter-con-2 {
     width: auto;
