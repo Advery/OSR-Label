@@ -677,7 +677,6 @@ footer .inputformabo:focus {
 
 .main-letter-con button:hover {
   transition: all .3s ease-in-out;
-  transform: rotate(5deg);
   opacity: 0.7;
 }
 
