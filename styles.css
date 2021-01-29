@@ -734,7 +734,7 @@ footer .inputformabo:focus {
 
 
 .main-letter-con .pop-up-pos-middle {
-  top: -10rem;
+  top: -10rem; right: -8rem;
 }
 
 .main-letter-con .pop-up-pos-middle:before {
@@ -747,7 +747,7 @@ footer .inputformabo:focus {
   border-bottom: 10px solid white;
   z-index:2;
 
-  top: -1rem; right: 65rem;
+  top: -0.8rem; right: 20rem;
 }
 
 .main-letter-con .pop-up-pos-middle:after {
@@ -761,13 +761,13 @@ footer .inputformabo:focus {
   border-bottom: 12px solid rgba(0,0,0, 0.05);
   z-index:1;
 
-  top: -1.2rem; right: 64.8rem;
+  top: -1rem; right: 20rem;
 }
 
 
 
 .main-letter-con .pop-up-pos-right {
-  top: -10rem;
+  top: -10rem; right: 30rem;
 }
 
 .main-letter-con .pop-up-pos-right:before {
@@ -780,7 +780,7 @@ footer .inputformabo:focus {
   border-bottom: 10px solid white;
   z-index:2;
 
-  top: -1rem; right: 65rem;
+  top: -0.8rem; right: 40rem;
 }
 
 .main-letter-con .pop-up-pos-right:after {
@@ -794,7 +794,7 @@ footer .inputformabo:focus {
   border-bottom: 12px solid rgba(0,0,0, 0.05);
   z-index:1;
 
-  top: -1.2rem; right: 64.8rem;
+  top: -1rem; right: 40rem;
 }
 
 .main-letter-con h3 {
