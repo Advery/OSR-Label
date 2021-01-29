@@ -732,6 +732,7 @@ footer .inputformabo:focus {
 }
 
 
+
 .main-letter-con .pop-up-pos-middle {
   top: -10rem;
 }
@@ -743,10 +744,10 @@ footer .inputformabo:focus {
   height: 0;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-top: 10px solid white;
+  border-bottom: 10px solid white;
   z-index:2;
 
-  top: 50rem; right: 65rem;
+  top: -1rem; right: 65rem;
 }
 
 .main-letter-con .pop-up-pos-middle:after {
@@ -757,11 +758,12 @@ footer .inputformabo:focus {
   height: 0;
   border-left: 12px solid transparent;
   border-right: 12px solid transparent;
-  border-top: 12px solid rgba(0,0,0, 0.05);
+  border-bottom: 12px solid rgba(0,0,0, 0.05);
   z-index:1;
 
-  top: 50.2rem; right: 64.8rem;
+  top: -1.2rem; right: 64.8rem;
 }
+
 
 
 .main-letter-con .pop-up-pos-right {
@@ -775,10 +777,10 @@ footer .inputformabo:focus {
   height: 0;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-top: 10px solid white;
+  border-bottom: 10px solid white;
   z-index:2;
 
-  right: 65rem;
+  top: -1rem; right: 65rem;
 }
 
 .main-letter-con .pop-up-pos-right:after {
@@ -789,12 +791,11 @@ footer .inputformabo:focus {
   height: 0;
   border-left: 12px solid transparent;
   border-right: 12px solid transparent;
-  border-top: 12px solid rgba(0,0,0, 0.05);
+  border-bottom: 12px solid rgba(0,0,0, 0.05);
   z-index:1;
 
-  top: 0.2rem; right: 64.8rem;
+  top: -1.2rem; right: 64.8rem;
 }
-
 
 .main-letter-con h3 {
   font-size: 3.6rem;
