@@ -733,11 +733,11 @@ footer .inputformabo:focus {
 
 
 
-.main-letter-con .pop-up-pos-middle {
+.main-letter-con .pop-up-pos-right {
   top: -10rem; right: -8rem;
 }
 
-.main-letter-con .pop-up-pos-middle:before {
+.main-letter-con .pop-up-pos-right:before {
   position:absolute;
   content: '';
   width: 0;
@@ -750,7 +750,7 @@ footer .inputformabo:focus {
   top: -0.8rem; right: 20rem;
 }
 
-.main-letter-con .pop-up-pos-middle:after {
+.main-letter-con .pop-up-pos-right:after {
   /* This is the shadow triangle */
   position:absolute;
   content: '';
@@ -766,11 +766,11 @@ footer .inputformabo:focus {
 
 
 
-.main-letter-con .pop-up-pos-right {
-  top: -10rem; right: 30rem;
+.main-letter-con .pop-up-pos-middle {
+  top: -10rem; right: -30rem;
 }
 
-.main-letter-con .pop-up-pos-right:before {
+.main-letter-con .pop-up-pos-middle:before {
   position:absolute;
   content: '';
   width: 0;
@@ -783,7 +783,7 @@ footer .inputformabo:focus {
   top: -0.8rem; right: 40rem;
 }
 
-.main-letter-con .pop-up-pos-right:after {
+.main-letter-con .pop-up-pos-middle:after {
   /* This is the shadow triangle */
   position:absolute;
   content: '';
