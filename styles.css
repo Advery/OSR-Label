@@ -701,7 +701,7 @@ footer .inputformabo:focus {
 }
 
 .main-letter-con .pop-up-pos-left {
-  top: -1rem;
+  top: -2rem;
 }
 
 .main-letter-con .pop-up-pos-left:before {
@@ -734,7 +734,7 @@ footer .inputformabo:focus {
 
 
 .main-letter-con .pop-up-pos-right {
-  top: -1rem; right: -8rem;
+  top: -2rem; right: -8rem;
 }
 
 .main-letter-con .pop-up-pos-right:before {
@@ -767,7 +767,7 @@ footer .inputformabo:focus {
 
 
 .main-letter-con .pop-up-pos-middle {
-  top: -1rem; right: -30rem;
+  top: -2rem; right: -30rem;
 }
 
 .main-letter-con .pop-up-pos-middle:before {
