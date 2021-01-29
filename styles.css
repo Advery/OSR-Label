@@ -876,13 +876,13 @@ footer .inputformabo:focus {
 
 @media screen and (min-width: 480px) {
 .main-letter-con-2 {
-
+    display: none;
     }
 }
 
 @media screen and (max-width: 479px) {
   .main-letter-con {
-
+    display: none;
     }
   .main-letter-con-2 {
     width: auto;
