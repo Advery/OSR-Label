@@ -714,7 +714,7 @@ footer .inputformabo:focus {
   border-top: 10px solid white;
   z-index:2;
 
-  top: 50rem; right: 65rem;
+  right: 65rem;
 }
 
 .main-letter-con .pop-up-pos-left:after {
@@ -728,7 +728,7 @@ footer .inputformabo:focus {
   border-top: 12px solid rgba(0,0,0, 0.05);
   z-index:1;
 
-  top: 50.2rem; right: 64.8rem;
+  top: 0.2rem; right: 64.8rem;
 }
 
 
@@ -778,7 +778,7 @@ footer .inputformabo:focus {
   border-top: 10px solid white;
   z-index:2;
 
-  top: 50rem; right: 65rem;
+  right: 65rem;
 }
 
 .main-letter-con .pop-up-pos-right:after {
@@ -792,7 +792,7 @@ footer .inputformabo:focus {
   border-top: 12px solid rgba(0,0,0, 0.05);
   z-index:1;
 
-  top: 50.2rem; right: 64.8rem;
+  top: 0.2rem; right: 64.8rem;
 }
 
 
