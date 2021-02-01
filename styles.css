@@ -478,7 +478,7 @@ width: 100%;
 .front{
 display: flex;
 flex-direction: column;
-align-content: space-between;
+align-items: center;
 
 }
 .back{
