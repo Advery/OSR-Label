@@ -651,6 +651,10 @@ footer .inputformabo:focus {
 
 /**** Smartphone ****/
 @media (max-width: 835px) {
+    
+    
+    
+    
   footer {
     margin: 0;
     -webkit-box-orient: vertical;
@@ -862,6 +866,55 @@ footer .inputformabo:focus {
 .main-letter-con .letter-align-end {
   align-items: flex-end;
 }
+
+
+
+
+@media screen and (min-width:  835px) { 
+    .main-letter-con .letter-pop-up {
+      width: 50rem; 
+    }
+
+    .main-letter-con .pop-up-pos-left {
+      top: 0rem;
+    }
+
+    .main-letter-con .pop-up-pos-left:before {
+      top: -1rem; right: 37rem;
+    }
+
+    .main-letter-con .pop-up-pos-left:after {
+      top: -1.2rem; right: 36.8rem;
+    }
+
+
+    .main-letter-con .pop-up-pos-right {
+      top: 0rem; right: 0rem;
+    }
+
+    .main-letter-con .pop-up-pos-right:before {
+      top: -1rem; right: 10rem;
+    }
+
+    .main-letter-con .pop-up-pos-right:after {
+      top: -1.2rem; right: 9.8rem;
+    }
+
+
+    .main-letter-con .pop-up-pos-middle {
+      top: 0rem; right: -5rem;
+    }
+
+    .main-letter-con .pop-up-pos-middle:before {
+      top: -1rem; right: 16rem;
+    }
+
+    .main-letter-con .pop-up-pos-middle:after {
+      top: -1.2rem; right: 15.8rem;
+    }
+}
+
+
 
 @media screen and (min-width: 480px) {
 .main-letter-con-2 {
