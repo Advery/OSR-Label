@@ -523,7 +523,12 @@ background-color: #FFD85A;
 @media (max-width: 835px) {
     .container {
         height: 500px;
-    }    
+    }
+    
+    .h3-white {
+        font-size: 3rem;
+}
+    
 }
 
 /**** /Card-Flip ****/
