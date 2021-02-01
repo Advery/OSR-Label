@@ -523,7 +523,7 @@ background-color: #FFD85A;
 /**** Smartphone ****/
 @media (max-width: 835px) {
     .container {
-        height: 500px;
+        height: 600px;
     }
     
     .h3-white {
