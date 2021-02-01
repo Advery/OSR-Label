@@ -511,6 +511,7 @@ background-color: #FFD85A;
 @-moz-document url-prefix() {
     .front img{
         width: 80%;
+        height: 90%
         margin: 0 auto;
     }
 }
