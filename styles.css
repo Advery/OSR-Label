@@ -915,13 +915,13 @@ footer .inputformabo:focus {
 
 
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 500px) {
 .main-letter-con-2 {
     display: none;
     }
 }
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 499px) {
   .main-letter-con {
     display: none;
     }
