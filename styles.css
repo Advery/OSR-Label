@@ -514,6 +514,20 @@ background-color: #FFD85A;
     }
 }
 
+/**** Tablet ****/
+@media (max-width: 1199px) {
+ 
+}
+
+/**** Smartphone ****/
+@media (max-width: 835px) {
+    .container {
+        height: 500px;
+    }    
+}
+
+/**** /Card-Flip ****/
+
 
 
 /**** Footer ****/
