@@ -458,7 +458,7 @@ width: 100%;
 
 }
 .card div {
-padding: 2em;
+padding: 5em 1em 5em 1em;
 box-sizing: border-box;
 position: absolute;
 width: 100%;
