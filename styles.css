@@ -536,6 +536,10 @@ background-color: #FFD85A;
         align-items: center;
     }
     
+    .cardflip_p {
+    margin-top: 20%;
+    }
+    
 }
 
 /**** /Card-Flip ****/
