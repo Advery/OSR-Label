@@ -870,7 +870,7 @@ footer .inputformabo:focus {
 
 
 
-@media screen and (min-width:  835px) { 
+@media screen and (max-width:  835px) { 
     .main-letter-con .letter-pop-up {
       width: 50rem; 
     }
