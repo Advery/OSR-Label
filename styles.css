@@ -637,7 +637,7 @@ background-color: #FFD85A;
   }
 }
 
-contentContainerSmall__button {
+.contentContainerSmall__button {
     width: fit-content;
     width: -moz-fit-content;
 }
