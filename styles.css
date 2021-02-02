@@ -642,6 +642,13 @@ background-color: #FFD85A;
     width: -moz-fit-content;
 }
 
+@media (min-width: 800px) {
+  .contentContainerSmall__button {
+    -ms-flex-item-align: start;
+        align-self: flex-start;
+  }
+}
+
 
 /**** /Content-Card-small ****/
 
