@@ -433,7 +433,7 @@ width: 100%;
 }
 .container {
     width: 514px;
-    height: 588px;
+    height: 500px;
   position: relative;
   -webkit-perspective: 800px;
   -ms-perspective: 800px;
@@ -465,7 +465,7 @@ width: 100%;
 
 }
 .card div {
-padding: 10em 4em 10em 4em;
+padding: 5em 4em 5em 4em;
 box-sizing: border-box;
 position: absolute;
 width: 100%;
@@ -479,7 +479,11 @@ display: flex;
 color: #fff;
 }
 
-
+@media (min-width: 800px) {
+  .card div {
+    padding: 10em 4em 10em 4em;
+  }
+}
 
 
 .front img{
