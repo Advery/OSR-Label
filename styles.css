@@ -617,6 +617,13 @@ background-color: #FFD85A;
   display: flex;
   width: 100%;
   height: auto;
+  margin-top: 5%;
+}
+
+@media (min-width: 800px) {
+  .contentContainerSmall__imgbox {
+    margin-top: unset;
+  }
 }
 
 .contentContainerSmall__text {
