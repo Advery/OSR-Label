@@ -433,7 +433,7 @@ width: 100%;
 }
 .container {
     width: 514px;
-    height: 676px;
+    height: 588px;
   position: relative;
   -webkit-perspective: 800px;
   -ms-perspective: 800px;
@@ -441,6 +441,12 @@ width: 100%;
   border-radius: 4px;
   margin-bottom: 30px;
   
+}
+
+@media (min-width: 800px) {
+  .container {
+    height: 676px;
+  }
 }
 
 .card {
