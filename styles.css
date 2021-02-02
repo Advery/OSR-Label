@@ -640,6 +640,9 @@ background-color: #FFD85A;
 .contentContainerSmall__button {
     width: fit-content;
     width: -moz-fit-content;
+     -ms-flex-item-align: center;
+     -ms-grid-row-align: center;
+     align-self: center;
 }
 
 @media (min-width: 800px) {
