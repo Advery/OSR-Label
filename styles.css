@@ -463,7 +463,7 @@ padding: 10em 4em 10em 4em;
 box-sizing: border-box;
 position: absolute;
 width: 100%;
-height: 100%;
+height: 80%;
 -webkit-backface-visibility: hidden;
 backface-visibility: hidden;
 border-radius: 15px;
@@ -472,6 +472,14 @@ display: flex;
 -webkit-font-smoothing: antialiased;
 color: #fff;
 }
+
+@media (min-width: 800px) {
+  .card div {
+    height: 100%;
+  }
+}
+
+
 .front img{
 width: 100%;
 }
