@@ -656,6 +656,7 @@ background-color: #FFD85A;
      -ms-flex-item-align: center;
      -ms-grid-row-align: center;
      align-self: center;
+    margin-top: 20px;
 }
 
 @media (min-width: 800px) {
