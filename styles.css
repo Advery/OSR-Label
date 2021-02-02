@@ -637,14 +637,6 @@ background-color: #FFD85A;
   }
 }
 
-
-
-@media (min-width: 800px) {
-  .contentContainerSmall__button {
-    -ms-flex-item-align: start;
-        align-self: flex-start;
-  }
-}
 /**** /Content-Card-small ****/
 
 
