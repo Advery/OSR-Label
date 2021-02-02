@@ -443,7 +443,7 @@ width: 100%;
   
 }
 
-@media (min-width: 400px) {
+@media (min-width: 500px) {
   .container {
     height: 676px;
   }
