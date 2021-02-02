@@ -543,6 +543,121 @@ background-color: #FFD85A;
 
 /**** /Card-Flip ****/
 
+/**** Content-Card-small ****/
+.contentCardSmallWrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.contentContainerSmall {
+  max-width: 100%;
+  border: solid black 1px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.contentContainerSmall__title {
+  text-align: center;
+  font-size: 5rem;
+  line-height: 1.34;
+  font-weight: 400;
+  color: var(--dunkel);
+}
+
+.contentContainerSmall__contentbox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: column-reverse;
+          flex-direction: column-reverse;
+}
+
+@media (min-width: 1200px) {
+  .contentContainerSmall__contentbox {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+}
+
+.contentContainerSmall__imgbox {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+
+.contentContainerSmall__text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 1.8rem;
+  line-height: 1.3;
+  color: #777777;
+  width: 100%;
+  padding: 0 5% 0 5%;
+}
+
+@media (min-width: 800px) {
+  .contentContainerSmall__text {
+    font-size: 2.4rem;
+  }
+}
+
+.contentContainerSmall__button {
+  width: 209px;
+  height: 32px;
+  text-align: center;
+  background-color: #3940E9;
+  border-radius: 35px;
+  color: #FFFFFF;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+@media (min-width: 800px) {
+  .contentContainerSmall__button {
+    -ms-flex-item-align: start;
+        align-self: flex-start;
+  }
+}
+/**** /Content-Card-small ****/
+
 
 
 /**** Footer ****/
