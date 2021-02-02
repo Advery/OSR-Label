@@ -637,6 +637,12 @@ background-color: #FFD85A;
   }
 }
 
+contentContainerSmall__button {
+    width: fit-content;
+    width: -moz-fit-content;
+}
+
+
 /**** /Content-Card-small ****/
 
 
