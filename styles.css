@@ -544,6 +544,12 @@ background-color: #FFD85A;
 /**** /Card-Flip ****/
 
 /**** Content-Card-small ****/
+
+.contentCardSmall {
+    padding-top: 20rem;   
+}
+
+
 .contentCardSmallWrapper {
   display: -webkit-box;
   display: -ms-flexbox;
