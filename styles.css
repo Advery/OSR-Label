@@ -428,7 +428,7 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
 
 
 
-@media (min-width: 800px) {
+@media (min-width: 1200px) {
   .quoteContainer {
     width: 100%;  
     display: -webkit-box;
@@ -450,7 +450,7 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
   text-align: center;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1200px) {
   .quoteContainer__imgbox {
     width: 36%;
     font-size: 3.6rem;
@@ -460,7 +460,7 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
 }
 
 
-@media (min-width: 800px) {
+@media (min-width: 1200px) {
   .quoteContainer__text {
     width: 36%;
     font-size: 3.6rem;
