@@ -406,7 +406,8 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
 
 /**** Zitat ****/
 
-.uk-container-expand.quote {
+.uk-container-expand.
+{
     padding-top: 20rem;
 }
 
@@ -450,15 +451,6 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
   text-align: center;
 }
 
-@media (min-width: 1200px) {
-  .quoteContainer__imgbox {
-    width: 36%;
-    font-size: 3.6rem;
-    text-align: left;
-    
-  }
-}
-
 
 @media (min-width: 1200px) {
   .quoteContainer__text {
@@ -475,6 +467,20 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
   .quoteContainer__text {
     font-size: 5rem;
       width: 50%;
+  }
+}
+
+
+.quoteContainer__imgbox {
+  width: 100%;
+}
+
+@media (min-width: 1200px) {
+  .quoteContainer__imgbox {
+    width: 36%;
+    font-size: 3.6rem;
+    text-align: left;
+    
   }
 }
 /**** /Zitat ****/
