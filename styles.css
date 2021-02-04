@@ -469,14 +469,6 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
 
 
 
-@media (min-width: 1200px) {
-  .quoteContainer__text {
-    font-size: 5rem;
-      width: 50%;
-  }
-}
-
-
 .quoteContainer__imgbox {
   width: 100%;
 }
