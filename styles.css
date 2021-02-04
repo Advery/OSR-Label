@@ -430,7 +430,7 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
   width: 80%;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 800px) {
   .quoteContainer {
     display: -webkit-box;
     display: -ms-flexbox;
