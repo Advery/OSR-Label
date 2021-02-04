@@ -451,8 +451,15 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
   text-align: center;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 800px) {
   .quoteContainer__imgbox {
+    width: 50%;
+    
+  }
+}
+
+@media (min-width: 800px) {
+  .quoteContainer__text {
     width: 50%;
     
   }
@@ -460,7 +467,6 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
 
 @media (min-width: 600px) {
   .quoteContainer__text {
-    width: 50%;
     font-size: 3.6rem;
     text-align: left;
     
