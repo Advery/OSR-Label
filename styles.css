@@ -453,7 +453,7 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
 
 @media (min-width: 600px) {
   .quoteContainer__text {
-    font-size: 2.4rem;
+    font-size: 3.6rem;
     text-align: left;
     width: 50%;
   }
