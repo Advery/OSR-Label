@@ -405,6 +405,13 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
 
 
 /**** Zitat ****/
+
+.uk-container-expand .quote {
+    padding-top: 20rem;
+}
+
+
+
 .quoteContainerWrapper {
   margin-top: 10rem;
   display: -webkit-box;
