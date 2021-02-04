@@ -456,14 +456,26 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
   width: 100%;
 }
 
+@media (min-width: 600px) {
+  .quoteContainer__text {
+   font-size: 3.6rem;
+   }
+}
+
+
 
 @media (min-width: 1200px) {
   .quoteContainer__text {
     width: 36%;
-    font-size: 3.6rem;
     text-align: left;
     
   }
+}
+
+@media (min-width: 1400px) {
+  .quoteContainer__text {
+   font-size: 5rem;
+   }
 }
 
 
