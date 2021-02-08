@@ -121,7 +121,7 @@ a.contentContainer__link {
     }  
       
         .contentContainer:nth-child(2n) .contentContainer__arrow {
-        bottom: 0;
+        bottom: -18px;
     }    
       
 
