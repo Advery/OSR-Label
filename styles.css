@@ -116,7 +116,10 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
         flex-direction: column-reverse;
     }  
       
-      
+          
+    .contentContainer.contentContainer__arrow:nth-child(2n) {
+        bottom: 0;
+    }   
       
   }
   @media (min-width: 1200px) {
@@ -192,10 +195,7 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
       position: absolute;
       bottom: 5rem;
     }
-      
-    .contentContainer__arrow:nth-child(2n) {
-        bottom: 0;
-    } 
+
   }
   .contentContainer_img img {
     width: 100%;
