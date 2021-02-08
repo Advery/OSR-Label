@@ -33,7 +33,9 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
 
 /**** Content Card ****/
 
-  .contentContainer__arrow a {
+  .contentContainer__
+
+a {
     color: #777777;
   }
 
@@ -117,8 +119,8 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
     }  
       
           
-    .contentContainer.contentContainer__arrow:nth-child(2n) {
-        bottom: 0;
+    div.contentContainer__arrow:nth-child(2n) {
+        background-color: hotpink;
     }   
       
   }
