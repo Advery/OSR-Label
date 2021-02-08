@@ -126,6 +126,7 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
         -webkit-box-direction: reverse;
         -ms-flex-direction: row-reverse;
         flex-direction: row-reverse;
+        padding-bottom: 200px;
     }
   }
   .contentContainer__img {
