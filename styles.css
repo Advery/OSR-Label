@@ -107,9 +107,7 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
         padding-bottom: 100px;
         padding-top: 100px;
     }
-    .contentContainer__arrow:nth-child(2n) {
-        bottom: 0;
-    }
+
       
     .contentContainer:nth-child(2n) {
         -webkit-box-orient: vertical;
@@ -194,6 +192,10 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
       position: absolute;
       bottom: 5rem;
     }
+      
+    .contentContainer__arrow:nth-child(2n) {
+        bottom: 0;
+    } 
   }
   .contentContainer_img img {
     width: 100%;
