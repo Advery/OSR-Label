@@ -119,7 +119,7 @@ a {
     }  
       
         .contentContainer:nth-child(2n) .contentContainer__arrow {
-        padding-bottom: 100px;
+        bottom: 0;
     }    
       
 
