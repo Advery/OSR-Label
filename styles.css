@@ -118,10 +118,7 @@ a {
         flex-direction: column-reverse;
     }  
       
-          
-    div.contentContainer__arrow:nth-child(2n) {
-        background-color: hotpink;
-    }   
+
       
   }
   @media (min-width: 1200px) {
