@@ -37,9 +37,6 @@ body.open {
   z-index: 11;
   margin: 0 auto;
 }
-.b-nav li:first-child {
-  padding-top: 15px;
-}
 
 /* burger animation */
 .b-nav:not(.open) {
@@ -47,7 +44,7 @@ body.open {
 }
 .b-nav li {
   list-style-type: none;
-  padding: 10px;
+  /* padding: 10px; */
   text-align: left;
   -webkit-transform: translateX(-250px);
           transform: translateX(-250px);
@@ -75,7 +72,7 @@ body.open {
 .b-link {
   color: #ffffff;
   font-size: 24px;
-  margin-left: 30px;
+  /* margin-left: 30px; */
 }
 
 /* Burger und Kreuz */
@@ -149,13 +146,9 @@ body.open {
   text-transform: uppercase;
   color: white;
 }
-  .sidelist li {
-    padding-top: 0;
-    padding-bottom: 0;
-  }
+
   .sidelist {
-    margin-top: 30px;
-    padding-left: 0;
+    padding: 30px 0 0 0;
   }
 
 .b-container, .b-navr {
@@ -166,11 +159,33 @@ text-decoration: none;
 color: white;
 }
 
+.list li{
+  padding-left: 15vw;
+}
+.list li{
+margin-bottom: 20px;
+}
+.sidelist li{
+  margin-bottom: 0;
+}
+
+.list li:first-child {
+  margin-bottom: 100px;
+  padding: 0;
+}
+
+.sidelist li:first-child {
+  margin-bottom: 0;
+  padding-left: 15vw;
+}
+.sidelist li:last-child {
+  margin-bottom: 70px;
+}
+
 /* background burger */
 .list{
   width: 100vw;
   height: 100vh;
-  padding: 29vh 0 0 12vw;
   -webkit-transition-property: background-color, opacity;
   -webkit-transition-duration: 0.4s;
 }
@@ -178,7 +193,6 @@ color: white;
   .list:not(.background){
    -webkit-transition: all 0.4s ease;
 }
-
 .background{
   width: 100vw;
   height: 100vh;
@@ -187,14 +201,9 @@ color: white;
 }
 
 /* label in burger */
-.label4{
-position: absolute;
-top: 0;
-left:20px;
-
-}
 .label3{
   max-width: none;
   width: 150px;
-  margin: 15px 0 0 15px;
+  margin-top: 30px;
+
 }
