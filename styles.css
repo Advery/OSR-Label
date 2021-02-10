@@ -334,6 +334,7 @@ a.contentContainer__link {
 
 .contentCardMini__text {
   font-size: 1.8rem;
+  font-weight: 500;
   line-height: 1.3;
   color: #777777;
   margin-top: 20px;
