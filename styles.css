@@ -335,6 +335,7 @@ a.contentContainer__link {
 @media (min-width: 800px) {
   .contentCardMini__text {
     font-size: 2.4rem;
+    text-align: left;
   }
 }
 
