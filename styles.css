@@ -299,11 +299,16 @@ a.contentContainer__link {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
+    
+  @media (min-width: 800px) {
+  .contentCardMini__imgbox {
+    width: 30%;
+  }
+}  
+    
 }
 
-.contentCardMini__img {
-  width: 100%;
-}
+
 
 .contentCardMini__content {
   width: 100%;
