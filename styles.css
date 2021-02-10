@@ -312,6 +312,7 @@ a.contentContainer__link {
 
 @media (min-width: 800px) {
   .contentCardMini__content {
+    margin-left: 10%;
     width: 70%;
     display: -webkit-box;
     display: -ms-flexbox;
