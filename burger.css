@@ -183,6 +183,7 @@ color: white;
   width: 100vw;
   height: 100vh;
   background-color: #473AE3;
+  overflow: auto;
 }
 
 /* label in burger */
