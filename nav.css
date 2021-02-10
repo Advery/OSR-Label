@@ -1,18 +1,3 @@
-/* Font importieren, Grundeinstellungen */
-@font-face {
-  font-family: 'CeraPRO-Regular';
-  src: url('fonts/CeraPro-Regular.eot');
-  src: url('fonts/CeraPro-Regular.eot?#iefix') format('embedded-opentype'),url('fonts/CeraPro-Regular.woff2') format('woff2'),url('fonts/CeraPro-Regular.woff') format('woff'),url('fonts/CeraPro-Regular.ttf') format('truetype');
-}
-:root {
-  font-family: "CeraPRO-Regular";
-}
-* {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-  scroll-behavior: smooth;
-}
 
 /*** Desktop Navigation ***/
 nav {
