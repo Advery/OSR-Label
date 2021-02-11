@@ -561,6 +561,9 @@ a.contentContainer__link {
 
 
 /**** Parallax Fullscreen ****/
+.parallax_textwrapper_mobile {
+    display: none;
+}
 .parallax__wrapper {
     height: 100vh;
     margin: 0 auto;
@@ -1428,5 +1431,12 @@ footer .inputformabo:focus {
     .parallax__text {
         width: 100%;
     }
+    .parallax_textwrapper_desktop {
+        display: none;
+    }
+    .parallax_textwrapper_mobile {
+        display: static;
+    }
+    
     
 }    
