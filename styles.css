@@ -1426,7 +1426,9 @@ footer .inputformabo:focus {
         margin: 0 0 2rem 0;
     }
     .parallax_textwrapper {
-        top: 12rem;
+        width: 100%;
+        position: relative;
+        padding: 12rem 7% 3rem 7%;
     }
     .parallax__titel {
         margin-bottom: 3rem;
@@ -1438,8 +1440,9 @@ footer .inputformabo:focus {
         display: none;
     }
     .parallax_textwrapper_mobile {
-        display: unset;
+        display: inline-block;
     }
+    
     
     
 }    
