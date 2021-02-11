@@ -1414,7 +1414,7 @@ footer .inputformabo:focus {
     /**** Parallax Animation ****/
     .parallax__wrapper {
         height: 35vh;
-        margin: -5px 0 5rem 0;
+        margin: -5px 0 0 0;
     }
     .parallax__text h1 {
         font-size: 3rem;
