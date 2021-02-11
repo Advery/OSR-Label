@@ -357,9 +357,6 @@ a.contentContainer__link {
 
   /**** /Content-Card-mini ****/
 
-
-
-
 .business-case {
   color: #777777;
 }
@@ -416,59 +413,6 @@ a.contentContainer__link {
     padding-right: 12rem;
     padding-bottom: 9rem;
     padding-left: 12rem;
-}
-
-.service-case h2 {
-  text-align: center;
-  margin-bottom: 8rem;
-  font-size: 5rem;
-  color: #777777;
-}
-
-.service-case .partner-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin-bottom: 4.5rem;
-  height: 26.3rem;
-  width: 100%;
-}
-
-.service-case .partner-logo {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: end;
-      -ms-flex-pack: end;
-          justify-content: flex-end;
-  margin-right: 12rem;
-  width: 30%;
-}
-
-.service-case .partner-logo-1 {
-  max-width: 25rem;
-  height: 100%;
-}
-
-.service-case .partner-logo-2 {
-  max-height: 20rem;
-}
-
-.service-case {
-  padding-top: 20rem;
-  padding-right: 12rem;
-  padding-bottom: 9rem;
-  padding-left: 12rem;
-}
-
-.service-case .partner-container p {
-  font-size: 2.4rem;
-  line-height: 3rem;
-  color: #777777;
-  width: 70%;
 }
 
 .border {
