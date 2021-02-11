@@ -1412,7 +1412,7 @@ footer .inputformabo:focus {
 @media only screen and (max-width: 479px) {
 
     /**** Parallax Animation ****/
-    .parallax_wrapper {
+    .parallax__wrapper {
         height: 35vh;
     }
     .parallax__text h1 {
