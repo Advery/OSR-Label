@@ -357,6 +357,54 @@ a.contentContainer__link {
 
   /**** /Content-Card-mini ****/
 
+/**** OSR in den Medien ****/
+.osr-medien .flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.osr-medien .spacebetween {
+	display: flex;
+	justify-content: space-around;
+}
+.osr-medien .content {
+  width: 30%;
+  color: #fff;
+  margin: 20px;
+  display: none;
+}
+.osr-medien .border-rounded-top{
+	border-radius: 15px 15px 0 0;
+}
+.osr-medien .uk-border-rounded{
+	border-radius: 15px !important;
+}
+#loadMore {
+  width: 150px;
+  color: #fff;
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 30px;
+  border: 1px solid transparent;
+  background-color: #3940E9;
+  transition: .3s;
+}
+#loadMore:hover {
+  color: blue;
+  background-color: #fff;
+  border: 1px solid blue;
+  text-decoration: none;
+}
+.osr-medien .noContent {
+  color: #000 !important;
+  background-color: transparent !important;
+  pointer-events: none;
+}
+/**** /OSR in den Medien ****/
+
 /**** Cases ****/
 .contentContainer__text {
   font-family: CeraPRO-Regular, sans-serif;
