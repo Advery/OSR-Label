@@ -427,7 +427,8 @@ a.contentContainer__link {
 }
 
 .uk-container.case {
-  margin-top: 20rem;
+  
+  margin-bottom: 20rem;
 }
 
 .case__wrapper {
