@@ -427,7 +427,7 @@ a.contentContainer__link {
 }
 
 .uk-container.case {
-  
+  padding-top: unset;
   margin-bottom: 20rem;
 }
 
