@@ -410,7 +410,7 @@ a.contentContainer__link {
   margin: 20px;
   display: none;
 }
-.osr-medien .border-rounded-top{
+.osr-medien__img .border-rounded-top{
 	border-radius: 15px 15px 0 0;
 }
 .osr-medien .uk-border-rounded{
