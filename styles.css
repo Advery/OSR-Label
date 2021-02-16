@@ -390,8 +390,16 @@ a.contentContainer__link {
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
-  flex-direction: row;	
+  flex-direction: column;	
 }
+
+@media (min-width: 1200px) {
+  .osr-medien .flex {
+    flex-direction: row;
+  }
+}
+
+
 .osr-medien .spacebetween {
 	display: flex;
 	justify-content: space-around;
