@@ -411,11 +411,25 @@ a.contentContainer__link {
 	justify-content: space-around;
 }
 .osr-medien .content {
-  width: 30%;
+  width: 100%;
   color: #fff;
   margin: 20px;
   display: none;
 }
+
+@media (min-width: 400px) {
+  .osr-medien .content {
+    width: 80%;
+  }
+}
+
+@media (min-width: 800px) {
+  .osr-medien .content {
+    width: 30%;
+  }
+}
+
+
 .osr-medien__img .border-rounded-top{
 	border-radius: 15px 15px 0 0;
 }
