@@ -469,6 +469,19 @@ a.contentContainer__link {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  width: 100%;	
+}
+
+@media (min-width: 400px) {
+  .case__boxwrapper {
+    width: 80%;
+  }
+}
+
+@media (min-width: 800px) {
+  .case__boxwrapper {
+    width: 100%;
+  }
 }
 
 .case__displayWrapper {
