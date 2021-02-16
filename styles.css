@@ -1564,5 +1564,11 @@ footer .inputformabo:focus {
 	.contentContainer__arrow {
 	display: none;
 	}
+	contentContainer__text a.buttonblau {
+    	margin-top: 2.7rem;
+	}
+	.contentContainer__text p {
+    	padding-top: 3rem;
+	}
     
 }    
