@@ -397,11 +397,13 @@ a.contentContainer__link {
   flex-direction: column;	
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 800px) {
   .osr-medien .flex {
+    justify-content: center;  
     flex-direction: row;
   }
 }
+
 
 
 .osr-medien .spacebetween {
