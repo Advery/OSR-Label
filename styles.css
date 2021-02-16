@@ -372,6 +372,10 @@ a.contentContainer__link {
   }
 }
 
+osr-medien__img {
+ width: 100%;
+}
+
 .osr-medien__text {
   font-size: 1.8rem;
   line-height: 1.3;
