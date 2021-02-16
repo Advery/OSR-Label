@@ -1571,5 +1571,17 @@ footer .inputformabo:focus {
 	.contentContainer__text p {
     	padding-top: 3rem;
 	}
+	.uk-container-expand {
+    	padding-top: 0;
+    	margin-top: 10rem;
+	}
+	.cardflip-case {
+	padding-top: 0;
+	margin-top: 7rem;
+	}
+	.contentCardSmall {
+   	padding-top: 0;
+	margin-top: 7rem;
+	}
 
 }    
