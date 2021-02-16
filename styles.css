@@ -1541,6 +1541,9 @@ footer .inputformabo:focus {
 	}
 	.parallax__text {
 	width: 100%;
+	display: flex;
+	flex-direction: column;
+    	align-items: center;	
 	}
 	.parallax_textwrapper_desktop {
 	display: none;
