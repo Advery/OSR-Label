@@ -1561,6 +1561,8 @@ footer .inputformabo:focus {
 	.uk-container-expand.contendCard {
     	padding-top: 5rem;
 	}
-    
+	.contentContainer__arrow {
+	display: none;
+	}
     
 }    
