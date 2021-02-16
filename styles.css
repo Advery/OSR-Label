@@ -1555,6 +1555,7 @@ footer .inputformabo:focus {
 	border-radius: 2.5rem;
 	font-size: 1.8rem;
 	height: 5rem;
+	padding-top: 0.7%;	
 	}
 	.contentContainer {
 	height: auto;
