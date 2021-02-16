@@ -1550,6 +1550,7 @@ footer .inputformabo:focus {
 	padding-top: 0.7%;
 	margin-top: 1.3rem;
 	}
+	
 	.buttonblau, .buttonweiss {
 	border-radius: 2.5rem;
 	font-size: 1.8rem;
@@ -1559,6 +1560,7 @@ footer .inputformabo:focus {
 	height: auto;
 	margin-bottom: 7rem;
 	}
+	
 	.uk-container-expand.contendCard {
     	padding-top: 5rem;
 	}
@@ -1582,6 +1584,9 @@ footer .inputformabo:focus {
 	.contentCardSmall {
    	padding-top: 0;
 	margin-top: 7rem;
+	}
+	.contentContainerSmall__text p {
+	margin-top: 0;
 	}
 
 }    
