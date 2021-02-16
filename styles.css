@@ -638,8 +638,8 @@ a.contentContainer__link {
   height: 5rem;
 }
 .buttonblau {
-  background-color: #473AE3;
-  border: solid 0.2rem #473AE3;
+  background-color: #3940E9;
+  border: solid 0.2rem #3940E9;
   color: white;
   -webkit-transition: ease 0.3s;
   transition: ease 0.3s;
@@ -651,11 +651,11 @@ a.contentContainer__link {
   transition: ease 0.3s;
 }
 .buttonweiss:hover, .buttonweiss:focus {
-  background-color: #473AE3;
+  background-color: #3940E9;
   color: white;
 }
 .buttonblau:focus, .buttonblau:hover {
-  border: solid 2px #473AE3;
+  border: solid 2px #3940E9;
   background-color: white;
   color: #473AE3;
 }
