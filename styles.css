@@ -1498,53 +1498,56 @@ footer .inputformabo:focus {
 
 @media only screen and (max-width: 479px) {
 
-    /**** Parallax Animation ****/
-    .parallax__wrapper {
-        height: 30vh;
-        margin: -5px 0 0 0;
-    }
-    .parallax__text h1 {
-        font-size: 3rem;
-    }
-    .parallax__titel h2 {
-        font-size: 3rem;
-    }
-    .parallax__text h3 {
-        font-size: 2rem;
-        margin: 0 0 2rem 0;
-    }
-    .parallax_textwrapper {
-        width: 100%;
-        position: relative;
-        padding: 13.5rem 7% 0 7%;
-        top: 0;
-        left: 0;
-        margin: 0;
-    }
-    .parallax__titel {
-        margin-bottom: 3rem;
-    }
-    .parallax__text {
-        width: 100%;
-    }
-    .parallax_textwrapper_desktop {
-        display: none;
-    }
-    .parallax_textwrapper_mobile {
-        display: inline-block;
-    }
-    .parallax__text a.buttonblau {
-        padding-top: 0.7%;
-    }
-    .buttonblau, .buttonweiss {
-        border-radius: 2.5rem;
-        font-size: 1.8rem;
-        height: 5rem;
-    }
-.contentContainer {
-    	height: auto;
+	/**** Parallax Animation ****/
+	.parallax__wrapper {
+	height: 30vh;
+	margin: -5px 0 0 0;
+	}
+	.parallax__text h1 {
+	font-size: 3rem;
+	}
+	.parallax__titel h2 {
+	font-size: 3rem;
+	}
+	.parallax__text h3 {
+	font-size: 2rem;
+	margin: 0 0 2rem 0;
+	}
+	.parallax_textwrapper {
+	width: 100%;
+	position: relative;
+	padding: 13.5rem 7% 0 7%;
+	top: 0;
+	left: 0;
+	margin: 0;
+	}
+	.parallax__titel {
+	margin-bottom: 3rem;
+	}
+	.parallax__text {
+	width: 100%;
+	}
+	.parallax_textwrapper_desktop {
+	display: none;
+	}
+	.parallax_textwrapper_mobile {
+	display: inline-block;
+	}
+	.parallax__text a.buttonblau {
+	padding-top: 0.7%;
+	}
+	.buttonblau, .buttonweiss {
+	border-radius: 2.5rem;
+	font-size: 1.8rem;
+	height: 5rem;
+	}
+	.contentContainer {
+	height: auto;
 	margin-bottom: 5rem;
-}
+	}
+	.uk-container-expand.contendCard {
+    	padding-top: 5rem;
+	}
     
     
 }    
