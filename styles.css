@@ -435,7 +435,7 @@ a.contentContainer__link {
 	border-radius: 15px 15px 0 0;
 }
 .osr-medien .uk-border-rounded{
-	border-radius: 15px !important;
+	    overflow: hidden;
 }
 #loadMore {
     color: #fff;
