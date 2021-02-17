@@ -426,6 +426,7 @@ a.contentContainer__link {
 @media (min-width: 800px) {
   .osr-medien .content {
     width: 30%;
+    margin-left: 3.5rem;	  
   }
 }
 
