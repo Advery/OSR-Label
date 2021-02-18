@@ -119,12 +119,12 @@ a.contentContainer__link {
         -ms-flex-direction: column-reverse;
         flex-direction: column-reverse;
     }  
-      
+/*      
         .contentContainer:nth-child(2n) .contentContainer__arrow {
         bottom: -18px;
     }    
       
-
+*/
       
   }
   @media (min-width: 1200px) {
