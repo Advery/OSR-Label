@@ -760,9 +760,12 @@ a.contentContainer__link {
     position: absolute;
     bottom: 0;
     z-index: 10;
-    color: white;
     left: 46%;	
 
+}
+
+.parallax__link {
+    color: white;
 }
 
 
