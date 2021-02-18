@@ -755,6 +755,17 @@ a.contentContainer__link {
     overflow: hidden;
     background-color: #9bb0fc;
 }
+
+.parallax__arrow {
+    position: absolute;
+    bottom: 0;
+    z-index: 10;
+    color: white;
+    left: 46%;	
+
+}
+
+
 .parallax_textwrapper {
     width: 86%;
     top: 15%;
