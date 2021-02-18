@@ -1,16 +1,5 @@
 /*** Grundeinstellungen ***/
-* {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-  scroll-behavior: smooth;
-}
-body {
-  overflow-x: hidden;
-}
-body.open {
-  overflow: hidden;
-}
+
 
 /*** slide animations definition ***/
 @-webkit-keyframes slideInLeft {
