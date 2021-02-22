@@ -1035,9 +1035,9 @@ display: flex;
 flex-direction: column;
 align-content: space-between;
 }
+/*
 .ca1 {
 background-color: #37338A;
-
 }
 .ca2{
 background-color: #76A357;
@@ -1047,7 +1047,7 @@ background-color: #E69986;
 }
 .ca4{
 background-color: #FFD85A;
-}
+}*/
 .card .back {
   -webkit-transform: rotateY(180deg);
   transform: rotateY(180deg);
