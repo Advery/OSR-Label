@@ -1233,6 +1233,14 @@ background-color: #FFD85A;
 .container-footer .border {
 	border-top: 0.3rem solid #473AE3;
 }
+footer .shortlinks {
+	width: 30%;
+	display: flex;
+	flex-wrap: wrap;
+}
+footer .mainlinks {
+	width: 50%;
+}
 footer ul {
   list-style-type: none;
   margin-top: 0;
