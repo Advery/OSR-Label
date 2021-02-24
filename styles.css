@@ -1229,6 +1229,7 @@ background-color: #FFD85A;
 .container-footer {
 	margin-left: 7%;
 	margin-right: 7%;
+	margin-bottom: 5rem;
 }
 .container-footer .border {
 	border-top: 0.3rem solid #473AE3;
