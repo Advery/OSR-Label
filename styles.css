@@ -1317,6 +1317,11 @@ footer .inputformabo:focus {
 }
 
 /**** Tablet ****/
+@media (max-width: 1600px) {
+	footer .shortlinks {
+		display: unset;
+	}
+}	
 @media (max-width: 1199px) {
   footer .shortlinks {
     display: -webkit-box;
