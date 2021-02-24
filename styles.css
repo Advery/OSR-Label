@@ -1226,13 +1226,19 @@ background-color: #FFD85A;
 
 
 /**** Footer ****/
+.container-footer {
+	margin-left: 7%;
+	margin-right: 7%;
+}
+.container-footer .border {
+	border-top: 0.3rem solid #473AE3;
+}
 footer ul {
   list-style-type: none;
   margin-top: 0;
   margin-bottom: 7rem;
 padding-left: 0;
 }
-
 footer {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1250,29 +1256,24 @@ footer {
   padding-top: 5rem;
   line-height: 1.3;
 }
-
 footer .mainlinks {
   font-size: 3.6rem;
   color: #777777;
     padding-left: 0;
 }
-
 footer a {
   color: #777777;
 }
-
 footer a:hover, footer a:focus {
   color: #777777;
   border-bottom: solid 0.15rem #777777;
   text-decoration: none;
 }
-
 footer .mainlinks a:hover {
   color: #777777;
   border-bottom: solid 0.25rem #777777;
   text-decoration: none;
 }
-
 footer .adressen {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1284,12 +1285,10 @@ footer .adressen {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
 }
-
 footer form {
   /*margin-left: 3rem; */
 margin-left: 0;
 }
-
 footer .formabo {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1298,7 +1297,6 @@ footer .formabo {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
-
 footer .inputformabo {
   width: 65%;
   border: solid 0.2rem #777777;
@@ -1306,7 +1304,6 @@ footer .inputformabo {
   height: 5rem;
   margin-right: 1.5rem;
 }
-
 footer .inputformabo:focus {
   border: solid 0.2rem #473AE3;
 }
@@ -1330,10 +1327,6 @@ footer .inputformabo:focus {
 
 /**** Smartphone ****/
 @media (max-width: 835px) {
-    
-    
-    
-    
   footer {
     margin: 0;
     -webkit-box-orient: vertical;
