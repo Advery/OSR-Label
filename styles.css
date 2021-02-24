@@ -451,18 +451,18 @@ a.contentContainer__link {
 
 
 .osr-medien__img .border-rounded-top{
-	border-radius: 15px 15px 0 0;
+	border-radius: 1.5rem 1.5rem 0 0;
 }
 .osr-medien .uk-border-rounded{
 	    overflow: hidden;
 }
 #loadMore {
     color: #fff;
-    display: block;
+    display: inline-block;
     text-align: center;
-    margin: 20px auto;
-    padding: 10px 35px;
-    border-radius: 30px;
+    margin: 2rem auto;
+    padding: 1rem 3.5rem;
+    border-radius: 3rem;
     border: 1px solid transparent;
     background-color: #3940E9;
     -webkit-transition: .3s;
