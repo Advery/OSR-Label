@@ -371,6 +371,7 @@ a.contentContainer__link {
 .osr-medien {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
 }
 .osr-medien__contenttitle {
   font-size: 3.6rem;
