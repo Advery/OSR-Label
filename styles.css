@@ -205,6 +205,7 @@ a.contentContainer__link {
   .contentContainer__arrow {
     text-align: center;
     bottom: 1.5rem;
+    left: 50%;
   } 
   @media (min-width: 800px) {
     .contentContainer__arrow {
