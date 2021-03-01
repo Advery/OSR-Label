@@ -1365,6 +1365,10 @@ footer .inputformabo:focus {
   }
   footer .buttonblau {
     margin-top: 2rem;
+    padding-top: 0.5%;
+    width: fit-content;
+    width: -moz-fit-content;	  
+	  
   }
   footer .inputformabo {
     width: 85%;
@@ -1700,7 +1704,7 @@ footer .inputformabo:focus {
 	.contentContainer__arrow {
 	display: none;
 	}
-	.contentContainer__text a.buttonblau button.buttonblau {
+	.contentContainer__text a.buttonblau {
     	margin-top: 2.7rem;
 	}
 	.contentContainer__text p {
