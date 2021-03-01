@@ -763,7 +763,7 @@ a.contentContainer__link {
 
 .parallax__arrow {
     position: absolute;
-    bottom: 0;
+    bottom: 35px;
     z-index: 10;
     left: 50%;	
 
