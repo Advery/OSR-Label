@@ -713,6 +713,11 @@ a.contentContainer__link {
 /**** /Cases ****/
 
 /**** safety ****/
+
+uk-container safety {
+   padding-top: 30rem;
+}
+
 .safety__title {
     font-weight: 500;
     font-size: 5rem;
