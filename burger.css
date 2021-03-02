@@ -1,6 +1,3 @@
-/*** Grundeinstellungen ***/
-
-
 /*** slide animations definition ***/
 @-webkit-keyframes slideInLeft {
   0% {
@@ -69,7 +66,7 @@
   height: 6em;
   position: fixed;
   top: 7em;
-  right: 1em;
+  right: 3em;
   width: 6em;
   z-index: 12;
 }
@@ -121,7 +118,9 @@
 }
 
 /*** burgernav text positionierung und definition ***/
-.sidelist li a {
+.sidelist a {
+  display: flex;
+  flex-wrap: wrap;
   font-size: 1.2rem;
   text-transform: uppercase;
   color: white;
@@ -132,7 +131,7 @@
 .b-container, .b-nav {
   display: none;
 }
-.b-nav li a:hover {
+.list li a:hover {
 text-decoration: none;
 color: white;
 }
@@ -140,26 +139,19 @@ color: white;
   padding-left: 15vw;
   margin-bottom: 2em;
 }
-.sidelist li {
-  margin-bottom: 0;
-}
 .list li:first-child {
   margin-bottom: 10em;
   padding: 0;
 }
-.sidelist li:first-child {
-  margin-bottom: 0;
-  padding-left: 15vw;
-}
-.sidelist li:last-child {
+.sidelist a:last-child {
   margin-bottom: 7em;
 }
 
 /*** background burger, background fade***/
 .list {
-      width: 100vw;
-      height: 100vh;
-      max-width: 100%;
+  width: 100vw;
+  height: 100vh;
+  max-width: 100%;
 }
 .list:not(.background) {
   opacity: 0;
@@ -176,5 +168,5 @@ color: white;
 .label3 {
   max-width: none;
   width: 15em;
-  margin: 0.7em 0 0 -1em;
+  margin: 0.7em 0 0 1.5em;
 }
