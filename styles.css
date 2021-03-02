@@ -712,6 +712,22 @@ a.contentContainer__link {
 
 /**** /Cases ****/
 
+/**** safety ****/
+.safety__title {
+    font-weight: 500;
+    font-size: 5rem;
+}
+
+.safety__box h4 {
+    font-size: 2.4rem;
+    color: #473AE3;
+}
+
+.safety__box p {
+    font-size: 2.4rem;
+}
+/**** /safety ****/
+
 /**** Buttons ****/
 .buttonblau, .buttonweiss {
   border-radius: 3.5rem;
