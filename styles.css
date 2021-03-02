@@ -725,6 +725,7 @@ a.contentContainer__link {
 
 .safety__box p {
     font-size: 2.4rem;
+    margin-top: unset;	
 }
 /**** /safety ****/
 
