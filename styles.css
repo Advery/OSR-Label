@@ -714,7 +714,7 @@ a.contentContainer__link {
 
 /**** safety ****/
 
-.uk-container .safety {
+.uk-container.safety {
    padding-top: 30rem;
 }
 
