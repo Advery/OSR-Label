@@ -823,6 +823,9 @@ a.contentContainer__link {
     font-weight: 600;
     margin: 0;
 }
+.parallax__titel.switchColor h2 {
+   color: #777777;
+}
 
 
 .parallax__text {
