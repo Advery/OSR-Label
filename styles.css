@@ -824,9 +824,7 @@ a.contentContainer__link {
     margin: 0;
 }
 
-h2 .switchColor {
-    color: #777777;
-}
+
 .parallax__text {
     width: 43%;
 }
@@ -842,6 +840,10 @@ h2 .switchColor {
     color: white;
     font-weight: 600;
     margin: 0 0 4rem 0;
+}
+
+.parallax__text .switchColor h3 {
+   color: #777777;
 }
 .parallax__text a.buttonblau {
     padding-top: 0.5%;
