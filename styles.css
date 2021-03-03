@@ -842,7 +842,7 @@ a.contentContainer__link {
     margin: 0 0 4rem 0;
 }
 
-.parallax__text .switchColor h3 {
+.parallax__text.switchColor h3 {
    color: #777777;
 }
 .parallax__text a.buttonblau {
