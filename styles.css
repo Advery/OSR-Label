@@ -823,6 +823,10 @@ a.contentContainer__link {
     font-weight: 600;
     margin: 0;
 }
+
+h2 .switchColor {
+    color: #777777;
+}
 .parallax__text {
     width: 43%;
 }
