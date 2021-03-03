@@ -817,15 +817,19 @@ a.contentContainer__link {
     text-align: center;
     margin-bottom: 13rem;
 }
+
+.parallax__titel.switchColor h2 {
+   color: #777777;
+}
+
 .parallax__titel h2 {
     font-size: 5rem;
     color: white;
     font-weight: 600;
     margin: 0;
 }
-.parallax__titel.switchColor h2 {
-   color: #777777;
-}
+
+
 
 
 .parallax__text {
