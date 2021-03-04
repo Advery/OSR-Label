@@ -265,6 +265,7 @@ a.contentContainer__link {
 }
 
 .logogrid__boxwrapper {
+  margin-top: 10rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
