@@ -820,6 +820,7 @@ a.contentContainer__link {
 
 .parallax__titel.switchColor h2 {
    color: #777777;
+   text-shadow: 2px 0 #ffff;
 }
 
 .parallax__titel h2 {
@@ -851,6 +852,8 @@ a.contentContainer__link {
 
 .parallax__text.switchColor h3 {
    color: #777777;
+   text-shadow: 2px 0 #ffff;
+	
 }
 .parallax__text a.buttonblau {
     padding-top: 0.5%;
