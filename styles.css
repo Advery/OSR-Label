@@ -228,6 +228,78 @@ a.contentContainer__link {
 
   /**** /Content Card ****/
 
+  /**** logogrid ****/
+
+.uk-container.logogrid {
+  background-color: #3940e9;
+}
+
+.logogrid__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.logogrid__container {
+  width: 100%;
+}
+
+.logogrid__title {
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.logogrid__boxwrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.logogrid__linewrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+@media (min-width: 500px) {
+  .logogrid__linewrapper {
+    margin-bottom: 2%;
+  }
+}
+
+.logogrid__box {
+  width: 100px;
+  height: 100px;
+  background-color: hotpink;
+  border: 1px solid black;
+}
+
+  /**** /logogrid ****/
+
   /**** Content-Card-mini ****/
 
 .contentContainer__text {
