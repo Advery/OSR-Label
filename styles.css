@@ -799,6 +799,11 @@ a.contentContainer__link {
     color: #666;
 }
 
+.safety__box a:hover {
+    border-bottom: solid 0.15rem #777777;
+}
+
+
 .moreMarginBottom {
     margin-bottom: 80px;
 
