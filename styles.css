@@ -795,6 +795,10 @@ a.contentContainer__link {
     line-height: 1.3;	
 }
 
+.safety__box a {
+    color: #666;
+}
+
 .moreMarginBottom {
     margin-bottom: 80px;
 
