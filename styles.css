@@ -751,7 +751,7 @@ a.contentContainer__link {
   transition: .3s;
   font-size: 2.4rem;
   width: fit-content;	
-  -moz-fit-content;	
+  width: -moz-fit-content;	
 }
 
 .case__button:hover {
