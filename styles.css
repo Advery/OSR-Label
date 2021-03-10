@@ -49,6 +49,7 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
 	width: 70rem;
 	top: -1.5rem;
 	left: -9rem;
+	z-index: 3;
 }
 
 
