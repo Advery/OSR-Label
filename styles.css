@@ -43,9 +43,16 @@ h1, h2, h3, h4, h5, h6, p, li, a, ul, ol {
   text-align: center;
 }
 
+/* Flag */
+.flag {
+	position: absolute;
+	width: 70rem;
+	top: -1.5rem;
+	left: -9rem;
+}
+
+
 /**** Content Card ****/
-
-
 
 a.contentContainer__link {
     color: #777777;
