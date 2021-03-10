@@ -801,6 +801,7 @@ a.contentContainer__link {
 
 .safety__box a:hover {
     border-bottom: solid 0.15rem #777777;
+    text-decoration: none;	
 }
 
 
