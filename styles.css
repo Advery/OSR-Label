@@ -239,7 +239,9 @@ a.contentContainer__link {
   /**** event ****/
 
 
-
+.event__details {
+	font-size: 1.8rem;
+}
 
 .event__mainTitle {
   font-size: 4rem;
