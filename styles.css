@@ -236,6 +236,52 @@ a.contentContainer__link {
 
   /**** /Content Card ****/
 
+  /**** event ****/
+.uk-container.event {
+  margin-top: 20rem;
+}
+
+.event__wrapper {
+  background-color: peachpuff;
+}
+
+.event__mainTitle {
+  font-size: 4rem;
+  text-align: center;
+  color: #777777;
+}
+
+@media (min-width: 400px) {
+  .event__mainTitle {
+    font-size: 5rem;
+  }
+}
+
+.event__subTitles.uk-accordion-title {
+  color: #777777;
+  font-size: 2.6rem;
+  line-height: 1.3;
+  border-bottom: 2px solid #777777;
+}
+
+@media (min-width: 400px) {
+  .event__subTitles.uk-accordion-title {
+    font-size: 3.6rem;
+  }
+}
+
+.event__content {
+  line-height: 1.3;
+  font-size: 1.8rem;
+}
+
+@media (min-width: 800px) {
+  .event__content {
+    font-size: 2.4rem;
+  }
+}
+  /**** /event ****/
+
   /**** logogrid ****/
 
 .logogrid__wrapper {
