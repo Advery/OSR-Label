@@ -246,7 +246,7 @@ a.contentContainer__link {
 .event__mainTitle {
   font-size: 4rem;
   text-align: center;
-  color: #777777;
+  
 }
 
 @media (min-width: 400px) {
