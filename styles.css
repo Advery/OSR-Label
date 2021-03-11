@@ -237,13 +237,9 @@ a.contentContainer__link {
   /**** /Content Card ****/
 
   /**** event ****/
-.uk-container.event {
-  margin-top: 20rem;
-}
 
-.event__wrapper {
-  background-color: peachpuff;
-}
+
+
 
 .event__mainTitle {
   font-size: 4rem;
