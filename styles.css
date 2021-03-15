@@ -575,7 +575,7 @@ a.contentContainer__link {
     display: inline-block;
     text-align: center;
     margin: 2rem 0;
-    padding: 1rem 3.5rem;
+    padding: 1% 6%;
     border-radius: 3rem;
     border: 1px solid transparent;
     background-color: #3940E9;
@@ -877,7 +877,7 @@ a.contentContainer__link {
   color: white;
   -webkit-transition: ease 0.3s;
   transition: ease 0.3s;
-  padding: 1% 4%;	
+  padding: 1% 6%;	
 	
 }
 .buttonweiss {
