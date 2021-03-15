@@ -227,7 +227,7 @@ a.contentContainer__link {
     width: 100%;
   }
   .contentContainer__text a.buttonblau {
-    padding-top: 0.5%;
+    
     width: fit-content;
     width: -moz-fit-content;
     margin-top: 7rem;
@@ -869,7 +869,7 @@ a.contentContainer__link {
   text-transform: none;
   border: none;
   font-size: 2.4rem;
-  height: 5rem;
+  
 }
 .buttonblau {
   background-color: #3940E9;
