@@ -237,6 +237,10 @@ a.contentContainer__link {
 
   /**** event ****/
 
+.uk-container.event {
+    padding-top: 30rem;
+}
+
 
 .event__details {
 	font-size: 1.8rem;
