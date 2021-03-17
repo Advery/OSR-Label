@@ -244,6 +244,10 @@ a.contentContainer__link {
 	
 }
 
+.event__box {
+  margin-bottom: 5%;
+}
+
 .event__mainTitle {
   font-size: 4rem;
   text-align: center;
