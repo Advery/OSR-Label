@@ -248,6 +248,11 @@ a.contentContainer__link {
   margin-bottom: 5%;
 }
 
+.event__file {
+  color: #666;
+  text-decoration: none;
+}
+
 .event__mainTitle {
   font-size: 4rem;
   text-align: center;
