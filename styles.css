@@ -1566,6 +1566,10 @@ footer .inputformabo:focus {
 
 /* ABC Carlo  */
 
+.uk-container.main-letter-con, .uk-container.main-letter-con2,  {
+    padding-top: 30rem;
+}
+
 .letter__mainTitle {
   font-size: 4rem;
   text-align: center;
