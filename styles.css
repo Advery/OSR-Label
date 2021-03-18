@@ -1569,9 +1569,7 @@ footer .inputformabo:focus {
 .uk-container.main-letter-con {
     padding-top: 30rem;
 }
-.uk-container.main-letter-con2 {
-    padding-top: 30rem;
-}
+
 
 .letter__mainTitle {
   font-size: 4rem;
@@ -1829,6 +1827,7 @@ footer .inputformabo:focus {
     width: auto;
     padding-right: 3rem;
     padding-left: 3rem;
+    padding-top: 30rem;
     }
     .main-letter-con-2 p {
         font-size: 1.8rem;
