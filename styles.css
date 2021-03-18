@@ -1566,6 +1566,18 @@ footer .inputformabo:focus {
 
 /* ABC Carlo  */
 
+.contact__mainTitle {
+  font-size: 4rem;
+  text-align: center;
+  
+}
+
+@media (min-width: 400px) {
+  .contact__mainTitle {
+    font-size: 5rem;
+  }
+}
+
 
 .main-letter-con {
   width: 100%;
