@@ -65,7 +65,7 @@
   display: inline-block;
   height: 6em;
   position: fixed;
-  top: 7em;
+  top: 5em;
   right: 3em;
   width: 6em;
   z-index: 12;
@@ -167,6 +167,6 @@ color: white;
 /*** label in burger ***/
 .label3 {
   max-width: none;
-  width: 15em;
-  margin: 0.7em 0 0 1.5em;
+  width: 13em;
+  margin: 0.5em 0 0 -1em;
 }
