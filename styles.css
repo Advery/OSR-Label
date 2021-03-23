@@ -323,6 +323,7 @@ a.contentContainer__link {
 }
 
 .contact__content {
+  font-size: 2.4rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -335,7 +336,7 @@ a.contentContainer__link {
 @media (min-width: 800px) {
   .contact__content {
     -ms-flex-direction: row;
-    font-size: 2.4rem;
+    
   }
 }
 
