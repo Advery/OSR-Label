@@ -304,6 +304,7 @@ a.contentContainer__link {
 
 .uk-container.contact {
   color: #777777;
+  padding-top: 30rem;
 }
 
 .contact__wrapper {
@@ -314,6 +315,8 @@ a.contentContainer__link {
   font-size: 4rem;
   text-align: center;
   color: #777777;
+  margin-top: 10rem;	
+	
 }
 
 @media (min-width: 400px) {
