@@ -1047,6 +1047,10 @@ a.contentContainer__link {
     color: white;
 }
 
+.parallax__link:hover {
+    color: lightgray;
+}
+
 
 .parallax_textwrapper {
     width: 86%;
