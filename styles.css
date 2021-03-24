@@ -1316,11 +1316,7 @@ display: flex;
 color: #fff;
 }
 
-@media (min-width: 800px) {
-  .card div {
-    padding: 10em 4em 10em 4em;
-  }
-}
+
 
 
 .front img{
