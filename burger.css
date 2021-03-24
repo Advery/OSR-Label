@@ -63,9 +63,9 @@
 .b-menu {
   cursor: pointer;
   display: inline-block;
-  height: 4em;
+  height: 6em;
   position: fixed;
-  top: 5em;
+  top: 3.7em;
   right: 3em;
   width: 6em;
   z-index: 12;
