@@ -144,9 +144,11 @@ li.active a.menu__link:after {
      display: block;
   }
   #label1 img {
-    margin: 15em 0 0 2em;
+    width: 10em;
+    margin: 13em 0 0 2em;
  }
   #label2 img {
-      margin: 15em 0 0 -11em;
+    width: 6.9em;
+    margin: 13em 0 0 -8.5em;
   }
 }
