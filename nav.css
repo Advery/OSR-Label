@@ -129,7 +129,7 @@ li.active a.menu__link:after {
   z-index: -1;
   content:"";
   background-color: #fff;
-  height: 12em;
+  height: 10em;
   top: 0;
   width: 100vw;
 }
