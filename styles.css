@@ -951,6 +951,10 @@ a.contentContainer__link {
    padding-top: 30rem;
 }
 
+.safety__content {
+   justify-content: center;
+}
+
 .safety__title {
     
     font-size: 5rem;
