@@ -1061,7 +1061,7 @@ a.contentContainer__link {
 
 .parallax_textwrapper {
     width: 86%;
-    top: 15%;
+    top: 10%;
     left: 7%;
     z-index: 8;
     position: absolute;
@@ -1069,7 +1069,7 @@ a.contentContainer__link {
 .parallax__titel {
     width: 100%;
     text-align: center;
-    margin-bottom: 13rem;
+    margin-bottom: 6rem;
 }
 
 .parallax__titel.switchColor h2 {
