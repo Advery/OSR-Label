@@ -1953,6 +1953,14 @@ footer .inputformabo:focus {
     }
 }
 
+@media only screen and (max-width: 1200px) {
+
+   .parallax__text {
+      width: 55%;
+   }
+
+}	
+
 @media only screen and (max-width: 800px) {
 
 	/**** Parallax Animation ****/
