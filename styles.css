@@ -1097,11 +1097,11 @@ a.contentContainer__link {
     font-weight: 600;
 } 
 .parallax__text h3 {
-    font-size: 2.4rem;
+    font-size: 2rem;
     line-height: 1.3;
     color: white;
     font-weight: 600;
-    margin: 0 0 4rem 0;
+    margin: 0 0 1.5rem 0;
 }
 
 .parallax__text.switchColor h3 {
