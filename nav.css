@@ -129,7 +129,7 @@ li.active a.menu__link:after {
   z-index: -1;
   content:"";
   background-color: #fff;
-  height: 10em;
+  height: 12em;
   top: 0;
   width: 100vw;
 }
@@ -150,5 +150,15 @@ li.active a.menu__link:after {
   #label2 img {
     width: 6.9em;
     margin: 13em 0 0 -8.5em;
+  }
+    /*** weisser balken in nav ***/
+  #navi::after {
+    position:absolute;
+    z-index: -1;
+    content:"";
+    background-color: #fff;
+    height: 10em;
+    top: 0;
+    width: 100vw;
   }
 }
