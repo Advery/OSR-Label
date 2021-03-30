@@ -1705,6 +1705,15 @@ footer .inputformabo:focus {
     font-size: 2.4rem;
 }
 
+#yform-table-mailadress-field-5-abschicken:hover {
+    border: solid 2px #3940E9;
+    background-color: white;
+    color: #473AE3;
+}
+
+
+
+
 /* ABC Carlo  */
 
 .uk-container.main-letter-con {
