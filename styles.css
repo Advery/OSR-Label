@@ -1676,7 +1676,7 @@ footer .inputformabo:focus {
 
 	/* subscribe with YForm */
 
-.subscribe .form-group .form-controll {
+.subscribe.form-group.form-controll {
   width: 65%;
   border: solid 0.2rem #777777;
   border-radius: 0.6rem;
