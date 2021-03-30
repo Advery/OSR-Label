@@ -1702,20 +1702,22 @@ footer .inputformabo:focus {
     cursor: pointer;
 }
 
-@media only screen and (max-width: 1000px)
+@media only screen and (max-width: 1000px) {
 
-#yform-table-mailadress-field-5-abschicken {
-    border-radius: 2.5rem;
-    height: 5rem;
+	#yform-table-mailadress-field-5-abschicken {
+	    border-radius: 2.5rem;
+	    height: 5rem;
+	}
 }
 
 
-@media (max-width: 835px)
-#yform-table-mailadress-field-5-abschicken {
-    margin-top: 2rem;
-    width: fit-content;
-    width: -moz-fit-content;
-}
+@media (max-width: 835px) {
+	#yform-table-mailadress-field-5-abschicken {
+	    margin-top: 2rem;
+	    width: fit-content;
+	    width: -moz-fit-content;
+	}
+}	
 
 #yform-table-mailadress-field-5-abschicken:hover {
     border: solid 2px #3940E9;
