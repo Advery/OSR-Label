@@ -1690,7 +1690,7 @@ footer .inputformabo:focus {
 	
 }
 
-#yform-table-mailadress-field-1 {
+#yform-table-mailadress-field-1:focus {
     border: solid 0.2rem #473AE3;
     outline: 0;
 
