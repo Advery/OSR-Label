@@ -1682,6 +1682,8 @@ footer .inputformabo:focus {
   border-radius: 0.6rem;
   height: 5rem;
   margin-right: 1.5rem;
+  caret-color: #777777;
+  padding: 0 10px;	
 }
 
 @media (max-width: 835px) {
