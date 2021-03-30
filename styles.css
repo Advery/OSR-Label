@@ -1676,7 +1676,7 @@ footer .inputformabo:focus {
 
 	/* subscribe with YForm */
 
-.subscribe.form-group.form-controll {
+#yform-table-mailadress-field-1 {
   width: 65%;
   border: solid 0.2rem #777777;
   border-radius: 0.6rem;
@@ -1686,7 +1686,7 @@ footer .inputformabo:focus {
 
 @media (max-width: 835px) {
   
-	.subscribe. form-group. form-controll {
+	#yform-table-mailadress-field-1 {
 	  width: 85%;
 
 	}	
