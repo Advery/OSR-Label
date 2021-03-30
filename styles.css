@@ -1684,6 +1684,16 @@ footer .inputformabo:focus {
   margin-right: 1.5rem;
 }
 
+#yform-table-mailadress-field-1:focus {
+  border: solid 0.2rem #473AE3;
+  outline: 0;
+  background-color: #fff;
+  color: #666;
+}
+
+
+
+
 @media (max-width: 835px) {
   
 	#yform-table-mailadress-field-1 {
