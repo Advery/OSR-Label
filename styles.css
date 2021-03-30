@@ -1692,6 +1692,18 @@ footer .inputformabo:focus {
 	}	
 }
 
+#yform-table-mailadress-field-5-abschicken {
+    background-color: #3940E9;
+    border: solid 0.2rem #3940E9;
+    color: white;
+    -webkit-transition: ease 0.3s;
+    transition: ease 0.3s;
+    padding: 1% 6%;
+    border-radius: 3.5rem;
+    text-transform: none;
+    border: none;
+    font-size: 2.4rem;
+}
 
 /* ABC Carlo  */
 
