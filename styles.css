@@ -1693,6 +1693,7 @@ footer .inputformabo:focus {
 }
 
 #yform-table-mailadress-field-5-abschicken {
+    font: inherit;
     background-color: #3940E9;
     border: solid 0.2rem #3940E9;
     color: white;
