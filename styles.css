@@ -1610,7 +1610,7 @@ footer .formabo {
           justify-content: space-between;
 }
 footer .inputformabo {
-  width: 65%;
+  width: 95%;
   border: solid 0.2rem #777777;
   border-radius: 0.6rem;
   height: 5rem;
@@ -1676,72 +1676,9 @@ footer .inputformabo:focus {
 
 	/* subscribe with YForm */
 
-#yform-table-mailadress-field-1 {
-  width: 65%;
-  border: solid 0.2rem #777777;
-  border-radius: 0.6rem;
-  height: 5rem;
-  margin-right: 1.5rem;
-  caret-color: #777777;
-  padding: 0 10px;
-  color: #777777;
-  line-height: 1.3;
-  font-size: 2.4rem;	
-	
+.form-group {
+	width: 100%;
 }
-
-#yform-table-mailadress-field-1:focus {
-    border: solid 0.2rem #473AE3;
-    outline: 0;
-
-}	
-
-@media (max-width: 835px) {
-  
-	#yform-table-mailadress-field-1 {
-	  width: 85%;
-
-	}	
-}
-
-#yform-table-mailadress-field-5-abschicken {
-    font: inherit;
-    background-color: #3940E9;
-    border: solid 0.2rem #3940E9;
-    color: white;
-    -webkit-transition: ease 0.3s;
-    transition: ease 0.3s;
-    padding: 1% 6%;
-    cursor: pointer;
-    border-radius: 3.5rem;	
-    font-size: 2.4rem; 
-    margin-top: 2rem;
-}
-
-@media only screen and (max-width: 1000px) {
-
-	#yform-table-mailadress-field-5-abschicken {
-	    border-radius: 2.5rem;
-	    height: 5rem;
-	}
-}
-
-
-@media (max-width: 835px) {
-	#yform-table-mailadress-field-5-abschicken {
-	    margin-top: 2rem;
-	    width: fit-content;
-	    width: -moz-fit-content;
-	}
-}	
-
-#yform-table-mailadress-field-5-abschicken:hover {
-    border: solid 2px #3940E9;
-    background-color: white;
-    color: #473AE3;
-}
-
-
 
 
 /* ABC Carlo  */
