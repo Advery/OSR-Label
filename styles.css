@@ -1795,7 +1795,7 @@ footer .inputformabo:focus {
   height: auto;
   width: 80rem;
   background-color:#FFF;
-  box-shadow:rgba(0,0,0, 0.2) 0px 1px 3px;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.2);
   border-radius:14px;  
 }
 
