@@ -1003,8 +1003,18 @@ a.contentContainer__link {
 
 .easytext__title {
     
-    font-size: 5rem;
+    font-size: 4rem;
     margin-bottom: 15rem
+	    
+    	    
+}
+
+@media (max-width: 500px) {
+  .easytext__title{
+    font-size: 5rem;
+
+    
+  }
 }
 
 .easytext__box h4 {
