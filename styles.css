@@ -2008,6 +2008,9 @@ footer .inputformabo:focus {
     .main-letter-con-2 .letter-space {
         margin-bottom: 5rem;    
     }
+	footer .mainlinks {
+    	width: 100%;
+	}
 }
 
 @media only screen and (max-width: 1200px) {
