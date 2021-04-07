@@ -991,6 +991,47 @@ a.contentContainer__link {
 }
 /**** /safety ****/
 
+/**** easytext ****/
+
+.uk-container.easytext {
+   padding-top: 30rem;
+}
+
+.easytext__content {
+   justify-content: center;
+}
+
+.easytext__title {
+    
+    font-size: 5rem;
+    margin-bottom: 15rem
+}
+
+.easytext__box h4 {
+    font-size: 2.4rem;
+    color: #473AE3;
+    margin-bottom: unset;
+    line-height: 1.3;	
+}
+
+.easytext__box p {
+    font-size: 2.4rem;
+    margin-top: unset;
+    line-height: 1.3;	
+    text-align: center;	
+}
+
+.easytext__box a {
+    color: #666;
+}
+
+.easytext__box a:hover {
+    border-bottom: solid 0.15rem #777777;
+    text-decoration: none;	
+}
+
+/**** /easytext ****/
+
 /**** Buttons ****/
 .buttonblau, .buttonweiss {
   border-radius: 3.5rem;
