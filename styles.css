@@ -2086,7 +2086,7 @@ footer .inputformabo:focus {
     	align-items: center;
 	}
 	.contentContainer__arrow {
-	display: none;
+	transform: unset;
 	}
 	.contentContainer__text a.buttonblau {
     	margin-top: 2.7rem;
