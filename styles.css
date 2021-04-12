@@ -1107,6 +1107,13 @@ a.contentContainer__link {
 
 }
 
+@media (min-width: 500px) {
+ .parallax__arrow {
+    display: none;
+
+ }
+}
+
 .parallax__link {
     color: white;
 }
