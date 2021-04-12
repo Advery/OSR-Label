@@ -221,10 +221,20 @@ a.contentContainer__link {
       position: absolute;
       bottom: 5rem;
     }
-      
-      
-
   }
+@media (max-width: 500px) and (orientation: landscape) {
+ .contentContainer__arrow {
+    display: none;
+
+ }
+}
+
+@media (max-width: 500px) and (orientation: portrait) {
+ .contentContainer__arrow {
+    display: none;
+
+ }
+}
   .contentContainer_img img {
     width: 100%;
   }
