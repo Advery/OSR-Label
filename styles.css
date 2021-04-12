@@ -391,6 +391,8 @@ a.contentContainer__link {
         -ms-flex-direction: column;
             flex-direction: column;
     width: 30%;
+   align-items: flex-end;	  
+	  
   }
 }
 
