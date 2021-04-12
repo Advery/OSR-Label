@@ -1107,7 +1107,7 @@ a.contentContainer__link {
 
 }
 
-@media (max-width: 500px) and (orientation: landscape) {
+@media (max-width: 500px) and (orientation: landscape) and (orientation: portrait) {
  .parallax__arrow {
     display: none;
 
