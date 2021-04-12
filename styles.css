@@ -2022,12 +2022,7 @@ footer .inputformabo:focus {
 
 }
 
-@media only screen and (max-width: 1000px) and (orientation: landscape) {
- 	.parallax__wrapper {
-	    height: 70vh;
-	    
-	}
-}
+
 
 @media only screen and (max-width: 1000px) {
 
@@ -2117,4 +2112,11 @@ footer .inputformabo:focus {
 	}
 
 
-}    
+}
+
+@media screen and (orientation: landscape) and (max-width: 1000px) {
+ 	.parallax__wrapper {
+	    height: 70vh;
+	    
+	}
+}
