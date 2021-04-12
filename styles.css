@@ -1058,7 +1058,7 @@ a.contentContainer__link {
   -webkit-transition: ease 0.3s;
   transition: ease 0.3s;
   padding: 1% 6%;	
-	
+  margin-top: 0.5rem;
 }
 .buttonweiss {
   background-color: white;
