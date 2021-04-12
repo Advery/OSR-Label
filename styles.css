@@ -1107,12 +1107,21 @@ a.contentContainer__link {
 
 }
 
-@media (max-width: 500px) and (orientation: landscape) and (orientation: portrait) {
+@media (max-width: 500px) and (orientation: landscape) {
  .parallax__arrow {
     display: none;
 
  }
 }
+
+@media (max-width: 500px) and (orientation: portrait) {
+ .parallax__arrow {
+    display: none;
+
+ }
+}
+
+
 
 .parallax__link {
     color: white;
