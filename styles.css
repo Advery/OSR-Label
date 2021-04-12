@@ -2149,7 +2149,7 @@ footer .inputformabo:focus {
 
 @media screen and (orientation: landscape) and (max-width: 1000px) {
  	.parallax__wrapper {
-	    height: 150vh;
+	    height: 120vh;
 	    
 	}
 }
