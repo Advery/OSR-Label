@@ -1058,7 +1058,7 @@ a.contentContainer__link {
   -webkit-transition: ease 0.3s;
   transition: ease 0.3s;
   padding: 1% 6%;	
-  margin-top: 0.5rem;
+  
 }
 .buttonweiss {
   background-color: white;
@@ -1154,7 +1154,7 @@ a.contentContainer__link {
     line-height: 1.3;
     color: white;
     font-weight: 600;
-    margin: 0 0 1.5rem 0;
+    margin: 0 0 1.8rem 0;
 }
 
 .parallax__text.switchColor h3 {
