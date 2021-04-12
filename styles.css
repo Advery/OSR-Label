@@ -222,7 +222,7 @@ a.contentContainer__link {
       bottom: 5rem;
     }
   }
-@media (max-width: 500px) and (orientation: landscape) {
+@media (max-width: 700px) and (orientation: landscape) {
  .contentContainer__arrow {
     display: none;
 
