@@ -357,10 +357,7 @@ a.contentContainer__link {
   }
 }
 
-.contact__map {
-  max-width: 1200px;
 
-}
 
 @media (min-width: 800px) {
   .contact__map {
