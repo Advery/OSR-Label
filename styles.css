@@ -2020,7 +2020,14 @@ footer .inputformabo:focus {
       width: 55%;
    }
 
-}	
+}
+
+@media screen and (max-width: 1000px) and (orientation: portrait) {
+ 	.parallax__wrapper {
+	    height: 70vh;
+	    
+	}
+}
 
 @media only screen and (max-width: 1000px) {
 
