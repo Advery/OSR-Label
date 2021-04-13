@@ -1057,6 +1057,11 @@ a.contentContainer__link {
     text-decoration: none;	
 }
 
+.easytext a.buttonblau {
+    align-self: center;
+    width: max-content;
+} 
+
 /**** /easytext ****/
 
 /**** Buttons ****/
