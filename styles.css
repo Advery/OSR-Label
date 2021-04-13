@@ -2042,13 +2042,13 @@ footer .inputformabo:focus {
 
 
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 600px) {
 .main-letter-con-2 {
     display: none;
     }
 }
 
-@media screen and (max-width: 499px) {
+@media screen and (max-width: 599px) {
   .main-letter-con {
     display: none;
     }
