@@ -1031,7 +1031,7 @@ a.contentContainer__link {
    justify-content: center;
 }
 
-.easytext__title {
+.easytext.easytext__title. {
     
     font-size: 5rem;
     margin-bottom: 12rem
@@ -1040,7 +1040,7 @@ a.contentContainer__link {
 }
 
 @media (max-width: 500px) {
-  .easytext__title{
+  .easytext.easytext__title{
     font-size: 4rem;
 
     
