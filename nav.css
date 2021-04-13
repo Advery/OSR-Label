@@ -136,7 +136,7 @@ li.active a.menu__link:after {
 
 /****************** MEDIA QUERIES ************/
 /************ Tablet ************/
-@media (max-width: 1024px) {
+@media (max-width: 1190px) {
   nav ul, .mainnav {
     display: none;
   }
