@@ -1010,6 +1010,8 @@ a.contentContainer__link {
 
 .uk-container.easytext {
    padding-top: 30rem;
+   display: flex;
+   flex-direction: column;	
 }
 
 .easytext__content {
