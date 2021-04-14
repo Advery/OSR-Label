@@ -2131,11 +2131,7 @@ footer .inputformabo:focus {
 	height: 5rem;
 	
 	}
-	.contentContainer {
-	height: auto;
-	margin-bottom: 7rem;
-	}
-	
+
 	.uk-container-expand.contendCard {
     	padding-top: 5rem;
 	}
@@ -2177,3 +2173,11 @@ footer .inputformabo:focus {
 	    
 	}
 }
+
+@media only screen and (max-width: 1000px) {
+
+	.contentContainer {
+	height: auto;
+	margin-bottom: 7rem;
+	}
+}	
