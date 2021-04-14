@@ -2174,10 +2174,10 @@ footer .inputformabo:focus {
 	}
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 500px) {
 
 	.contentContainer {
-	height: auto;
-	margin-bottom: 7rem;
+	 height: auto;
+	 margin-bottom: 7rem;
 	}
 }	
