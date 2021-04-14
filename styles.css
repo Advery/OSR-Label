@@ -986,13 +986,13 @@ a.contentContainer__link {
 
 .safety__title {
     
-    font-size: 3rem;
+    font-size: 5rem;
     margin-bottom: 15rem
 }
 
 @media only screen and (max-width: 1000px) {
 	.safety__title {
-	    font-size: 5rem;
+	    font-size: 3rem;
 	}
 }	
 
