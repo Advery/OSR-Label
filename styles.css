@@ -2174,13 +2174,15 @@ footer .inputformabo:focus {
 	}
 }
 
+/*
 @media only screen and (max-width: 500px) {
 
 	.contentContainer {
 	 height: auto;
 	 margin-bottom: 7rem;
 	}
-}	
+}
+*/
 
 @media only screen and (orientation: landscape) and (max-width: 500px) {
 
