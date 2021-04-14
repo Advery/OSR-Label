@@ -2163,6 +2163,10 @@ footer .inputformabo:focus {
 	.contentContainerSmall__text p {
 	margin-top: 0;
 	}
+	.contentContainer {
+	  height: auto;
+	  margin-bottom: 7rem;
+	}
 
 
 }
@@ -2182,7 +2186,7 @@ footer .inputformabo:focus {
 	 margin-bottom: 7rem;
 	}
 }
-*/
+
 
 @media only screen and (orientation: landscape) and (max-width: 500px) {
 
@@ -2199,3 +2203,4 @@ footer .inputformabo:focus {
 	 margin-bottom: 7rem;
 	}
 }
+*/
