@@ -212,15 +212,12 @@ a.contentContainer__link {
   }
   .contentContainer__arrow {
     text-align: center;
-    bottom: 1.5rem;
-/*    left: 50%;
-    transform: translate(-50%);
-*/	  
+    bottom: 1.5rem;	  
   } 
   @media (min-width: 800px) {
     .contentContainer__arrow {
       position: absolute;
-      bottom: 5rem;
+      bottom: -1rem;
     }
   }
 @media (max-width: 700px) and (orientation: landscape) {
