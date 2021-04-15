@@ -240,7 +240,7 @@ a.contentContainer__link {
  }
 }
 
-@media (max-width: 800px) and (orientation: portrait) {
+@media (max-width: 810px) and (orientation: portrait) {
  .contentContainer__arrow {
     display: none;
 
