@@ -15,8 +15,7 @@
 
 
 body {
-  overflow-x: hidden;
-  background-color: hotpink;	
+  overflow-x: hidden;	
 }
 body.open {
   overflow: hidden;
