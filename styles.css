@@ -1036,6 +1036,73 @@ a.contentContainer__link {
 
 /**** /safety ****/
 
+/**** detailsite  ****/
+
+.uk-container.detailsite {
+   padding-top: 30rem;
+}
+
+.detailsite__content {
+   justify-content: flex-start;
+}
+
+.detailsite__pic {
+   margin-bottom: 15rem;
+	
+}
+
+.detailsite__title {
+    
+    font-size: 5rem;
+    margin-bottom: 15rem
+}
+
+@media only screen and (max-width: 1000px) {
+	.detailsite__title {
+	    font-size: 3rem;
+	}
+}	
+
+.detailsite__box h4 {
+    font-size: 1.8rem;
+    color: #473AE3;
+    margin-bottom: unset;
+    line-height: 1.3;	
+}
+
+.detailsite__box p {
+    font-size: 1.8rem;
+    margin-top: unset;
+    line-height: 1.3;	
+}
+
+.detailsite__box a {
+    color: #666;
+    border-bottom: solid 0.15rem #777777;	
+}
+
+.detailsite__box a:hover {
+    
+    text-decoration: none;	
+}
+
+
+.moreMarginBottom {
+    margin-bottom: 80px;
+
+}
+
+@media only screen and (max-width: 1000px) {
+	.uk-container.detailsite {
+	 margin-left: 7%;
+         margin-right: 7%;
+	}
+
+}
+
+
+/**** /detailsite ****/
+
 /**** easytext ****/
 
 .uk-container.easytext {
