@@ -1039,9 +1039,16 @@ a.contentContainer__link {
 /**** detailsite  ****/
 
 .uk-container-expand.detailsite {
-   
-   padding: 20rem 7% 0 7%;
+	
+	   padding: 20rem 15% 0 15%;
 }
+	
+ @media only screen and (max-width: 1000px) {
+	.uk-container-expand.detailsite  {
+	    padding: 20rem 7% 0 7%;
+	}
+}	
+   
 
 .detailsite__content {
    justify-content: flex-start;
