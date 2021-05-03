@@ -1038,8 +1038,8 @@ a.contentContainer__link {
 
 /**** detailsite  ****/
 
-.uk-container.detailsite {
-   padding-top: 20rem;
+.uk-container-expand.detailsite {
+   
    padding: 20rem 7% 0 7%;
 }
 
