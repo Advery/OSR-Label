@@ -1040,6 +1040,7 @@ a.contentContainer__link {
 
 .uk-container.detailsite {
    padding-top: 20rem;
+   padding: 20rem 7% 0 7%;
 }
 
 .detailsite__content {
