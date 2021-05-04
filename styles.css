@@ -1088,6 +1088,10 @@ a.contentContainer__link {
     line-height: 1.3;	
 }
 
+.detailsite__date {
+	font-size: 1.8rem;
+}
+
 .detailsite__box p {
     font-size: 1.8rem;
     margin-top: unset;
