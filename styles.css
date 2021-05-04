@@ -1057,12 +1057,12 @@ a.contentContainer__link {
 .detailsite__content {
    justify-content: flex-start;
    margin-top: 7rem;
-   max-width: 100%
+   max-width: 80%
 }
 
  @media only screen and (max-width: 1200px) {
 	.detailsite__content {
-   		max-width: 80%;
+   		max-width: 100%;
 		}
 }	
    
