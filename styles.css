@@ -1052,10 +1052,13 @@ a.contentContainer__link {
 
 .detailsite__content {
    justify-content: flex-start;
+   margin-top: 7rem;
 }
 
 .detailsite__pic {
-   margin-bottom: 7rem;
+   	margin-bottom: 7rem;
+	margin: auto;
+	display: block;
 	
 }
 
