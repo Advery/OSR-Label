@@ -1041,6 +1041,8 @@ a.contentContainer__link {
 .uk-container-expand.detailsite {
 	
 	   padding: 20rem 15% 0 15%;
+	   display: flex;
+           flex-direction: column;
 }
 	
  @media only screen and (max-width: 1200px) {
@@ -1056,9 +1058,8 @@ a.contentContainer__link {
 }
 
 .detailsite__pic {
-   	margin-bottom: 7rem;
-	margin: auto;
-	display: block;
+   	align-self: flex-start;
+	
 	
 }
 
