@@ -677,7 +677,8 @@ a.contentContainer__link {
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
-  flex-direction: column;	
+  flex-direction: column;
+  margin-left: 0;	
 }
 
 @media (min-width: 800px) {
@@ -685,6 +686,7 @@ a.contentContainer__link {
     justify-content: center;  
     align-items: flex-start;
     flex-direction: row;
+    margin-left: 0;	  
   }
 }
 
