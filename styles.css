@@ -653,6 +653,10 @@ a.contentContainer__link {
  width: 100%;
 }
 
+.osr-medien_date {
+ margin-bottom: 0;
+}
+
 .osr-medien__text {
   font-size: 1.8rem;
   line-height: 1.3;
