@@ -636,6 +636,12 @@ a.contentContainer__link {
 	flex-wrap: wrap;
 	justify-content: center;
 }
+
+.osr-medien_cardgrid {
+ justify-content: center;
+ padding-left: 0;	
+
+}
 .osr-medien__contenttitle {
   font-size: 3.6rem;
   line-height: 1.3;
