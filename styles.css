@@ -643,7 +643,7 @@ a.contentContainer__link {
 
 }
 .osr-medien__contenttitle {
-  font-size: 3.6rem;
+  font-size: 3.2rem;
   line-height: 1.3;
   color: #777777;
   margin-bottom: 0;
@@ -652,7 +652,7 @@ a.contentContainer__link {
 
 @media (min-width: 800px) {
   .osr-medien__contenttitle {
-    font-size: 3.6rem;
+    font-size: 3.2rem;
   }
 }
 
