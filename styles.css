@@ -637,6 +637,10 @@ a.contentContainer__link {
 	justify-content: center;
 }
 
+.osr-medien_textBox {
+ padding: 20px 20px;
+}
+
 .osr-medien_cardgrid {
  justify-content: center;
  padding-left: 0;	
