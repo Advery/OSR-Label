@@ -639,6 +639,9 @@ a.contentContainer__link {
 
 .osr-medien_textBox {
  padding: 20px 20px;
+ hyphens: auto;
+-webkit-hyphens: auto;
+-ms-hyphens: auto;
 }
 
 .osr-medien_cardgrid {
@@ -1063,6 +1066,10 @@ a.contentContainer__link {
            flex-direction: column;
 	   justify-content: center;
            align-items: center;
+}
+
+detailsite__pic {
+    max-width: 60%;
 }
 	
  @media only screen and (max-width: 1200px) {
