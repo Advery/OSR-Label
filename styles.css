@@ -663,6 +663,10 @@ a.contentContainer__link {
  color: #777777;
 }
 
+.osr-medien__link:hover {
+ color: #777777;
+}
+
 .osr-medien__link::after {
  font-size: 1.5rem;
  line-height: 1.3;
